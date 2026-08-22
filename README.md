@@ -1,7 +1,8 @@
 <div align="center">
   <h1><code>dds-hexmeshing</code></h1><br/>
-  <p>Semantic data folders (dds) for hexahedral mesh generation</p><br/>
-  <a href="https://github.com/LIHPC-Computational-Geometry/dds-hexmeshing/blob/main/CHANGELOG.md">🔄 Changelog</a> • <a href="https://github.com/LIHPC-Computational-Geometry/dds-hexmeshing/wiki/dds%E2%80%90hexmeshing">📖 Documentation</a>
+  <p>Semantic data folders (<i>dds, Dossiers de Données Sémantiques</i>)<br/>for hexahedral mesh generation</p><br/>
+  <a href="https://github.com/LIHPC-Computational-Geometry/dds-hexmeshing/blob/main/CHANGELOG.md">🔄 Changelog</a> • <a href="https://github.com/LIHPC-Computational-Geometry/dds-hexmeshing/wiki/dds%E2%80%90hexmeshing">📖 Documentation</a><br/>
+  <a href="https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d"><img src="https://badgen.net/badge/Maintenance%20Level/Abandoned?color=fe7d37" alt="Maintenance Level: Abandoned"></a>
 </div>
 
 Instead of having:
